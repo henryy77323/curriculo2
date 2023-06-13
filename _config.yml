@@ -4,12 +4,12 @@
 
 # SEO plugin
 title: My Resume
-author: Steve Doe
+author: Carlos Henrique
 tagline: Full Stack Developer # Short description for jekyll-seo-tag
 description: A beautiful Jekyll theme for creating resume # Longer description for jekyll-seo-tag
 
 url: "https://henryy77323.github.io"
-baseurl: "curriculo2" # change it according to your repository name
+baseurl: "/curriculo2" # change it according to your repository name
 
 twitter:
   username: stevedoe123
